@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vnotes xmlns="xml:ns:vnote-1.0">
+  <vnote>
+		<title>
+			<text>SAMPLE TITLE</text>
+		</title>
+	  
+		<content>		
+			<text>
+				This is a sample note which contains <uri>tel:+1-111-555-1212</uri> also
+				it contains my email id<email><text>forrestgump@example.com</text></email>
+			</text>
+			
+			<list type="unordered">
+				<element>This is element number one</element>
+				<element>This is element number two</element>
+				<element>This is element number three</element>
+			</list>
+			
+			<checkbox>
+				<cbelement type="checked"> CBelement number one </cbelement>
+				<cbelement> CBelement number two </cbelement>
+			</checkbox>
+		</content>
+
+	<timestamp>1 December 2014</timestamp>
+	<last-updated> 11 December 2014</last-updated>
+  </vnote>
+</vnotes>
