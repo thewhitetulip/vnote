@@ -1,11 +1,9 @@
 vnote
 =====
 
-A format to store notes, inspired from vcard.
+A new way to share and import notes. Since the advent of mobile devices we have seen many note taking applications like Evernote, Omni-Notes, Keep, Hashnote, the list never seems to end. The main problem faced is the sharing of notes, if you have to share it to an app in your phone then it simply shares the text, but if you try sharing a note between devices, it shares it in a html webpage, which isn't at all convenient. 
 
-With the advent of mobile devices there have come a plethora of note taking applications, each of them has their advantages as well as their own shortcomings, but sharing notes among each application is a cumbersome task. This specification takes inspiration from vcard. 
-
-This will make it easier to share and import notes from various applications into any application that supports this specification, thus allowing interoperability among various note taking applications.
+Vnote is an attempt to put an end to such miseries. It is inspired from the concept of vCard which stores contact details. The beauty of vCard is you can easily export all your phone book from any phone and import it in any other phone as well. That function is *lacking* in modern note taking apps which create a niche for themselves. This will make the job of importing and exporting notes easier.
 
 **components**
 
